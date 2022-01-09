@@ -1,4 +1,5 @@
-import { Drawer } from "./src/Drawer"
-export namespace AGraDes {
-    
+export class AGraDes {
+    constructor() {
+
+    }
 }
